@@ -1,2 +1,0 @@
-# ReactLanguageTrainer
-Created with CodeSandbox
